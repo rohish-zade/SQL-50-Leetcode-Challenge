@@ -1,6 +1,6 @@
 ## SQL Convert Rows to Columns and Columns to Rows without using Pivot Functions
 
-This is often referred to as a "manual pivot." For this, you can use     statements with aggregation:
+This is often referred to as a "manual pivot." For this, you can use  `CASE`   statements with aggregation:
 
 ### Converting Rows to Columns
 
