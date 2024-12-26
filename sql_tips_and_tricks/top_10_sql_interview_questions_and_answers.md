@@ -24,7 +24,7 @@ If you need to remove duplicates, you can use `ROW_NUMBER()` or `DISTINCT:`
 
 
 ### 3. Difference between union and union all
-The difference between UNION and UNION ALL in SQL lies in how they handle duplicate rows.
+The difference between `UNION` and `UNION ALL` in SQL lies in how they handle duplicate rows.
 
 **UNION:**
 - Combines the result sets of two or more `SELECT` queries and removes duplicate rows from the final output.
